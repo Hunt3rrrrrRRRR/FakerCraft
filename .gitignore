@@ -1,0 +1,26 @@
+# Rust
+/target
+/Cargo.lock
+
+# Unity
+[Tt]emp/
+[Oo]bj/
+[Ll]ibrary/
+[Ll]ogs/
+/[Aa]ssets/[Aa]ssets.meta
+/[Aa]ssets/[Aa]ssets.csproj
+/[Aa]ssets/[Aa]ssets.sln
+/[Aa]ssets/[Aa]ssets.vscode/
+/[Aa]ssets/[Aa]ssets.TemporaryCache/
+/[Aa]ssets/[Aa]ssets.Client/
+/[Aa]ssets/[Aa]ssets.PrevMigrations/
+/[Aa]ssets/[Aa]ssets.TemporarilyInstalledPackages/
+/[Aa]ssets/[Aa]ssets.D3D/
+/[Aa]ssets/[Aa]ssets.ProjectSettings/
+
+# Visual Studio
+.vscode/
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
